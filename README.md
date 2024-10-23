@@ -25,8 +25,8 @@ A simple and efficient To Do List App using React, Node, Express and PostgreSQL.
 4. PostgreSQL Database: Reliable data storage.
 
 ## Contact
-Name: Tanuj Katyal
-Email: tanujkatyal123@gmail.com
-Vercel Link: https://todo-lg889swia-tanuj-katyals-projects.vercel.app/
+1. Name: Tanuj Katyal
+2. Email: tanujkatyal123@gmail.com
+3. Vercel Link: https://todo-lg889swia-tanuj-katyals-projects.vercel.app/
 
    
